@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6f8c76d.chunk.css",
+    "main.js": "/static/js/main.408a9176.chunk.js",
+    "main.js.map": "/static/js/main.408a9176.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90564032.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90564032.js.map",
+    "static/css/2.3a7d1ff5.chunk.css": "/static/css/2.3a7d1ff5.chunk.css",
+    "static/js/2.05596384.chunk.js": "/static/js/2.05596384.chunk.js",
+    "static/js/2.05596384.chunk.js.map": "/static/js/2.05596384.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.50e1aafcbd1071b44941c193ccf164c0.js": "/precache-manifest.50e1aafcbd1071b44941c193ccf164c0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3a7d1ff5.chunk.css.map": "/static/css/2.3a7d1ff5.chunk.css.map",
+    "static/css/main.a6f8c76d.chunk.css.map": "/static/css/main.a6f8c76d.chunk.css.map",
+    "static/js/2.05596384.chunk.js.LICENSE.txt": "/static/js/2.05596384.chunk.js.LICENSE.txt",
+    "static/media/aiwah.png": "/static/media/aiwah.ba6f76db.png",
+    "static/media/profile.scss": "/static/media/bg.2b389bf8.jpg",
+    "static/media/dzikir.png": "/static/media/dzikir.99ee35de.png",
+    "static/media/event.png": "/static/media/event.fcc7d78a.png",
+    "static/media/foto.jpg": "/static/media/foto.3f7aa7ee.jpg",
+    "static/media/galang.png": "/static/media/galang.cf291e20.png",
+    "static/media/kulinaa.png": "/static/media/kulinaa.3238c3ad.png",
+    "static/media/logoD.png": "/static/media/logoD.11df51bc.png",
+    "static/media/muslimQ.png": "/static/media/muslimQ.3001f1c6.png",
+    "static/media/pos.png": "/static/media/pos.b3a96e62.png",
+    "static/media/pp.png": "/static/media/pp.b1d1cc13.png",
+    "static/media/super.png": "/static/media/super.41f58c03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90564032.js",
+    "static/css/2.3a7d1ff5.chunk.css",
+    "static/js/2.05596384.chunk.js",
+    "static/css/main.a6f8c76d.chunk.css",
+    "static/js/main.408a9176.chunk.js"
+  ]
+}
