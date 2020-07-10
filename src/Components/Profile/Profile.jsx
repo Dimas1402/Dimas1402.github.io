@@ -70,7 +70,7 @@ const Profile = () => {
             </div>
           </div>
         </div>
-        <a href="https://drive.google.com/file/d/1jaRT4DHvZDXUOIFRSru6ZyyN4bH3DAUD/view?usp=sharing" >
+        <a href="https://drive.google.com/file/d/1Gp2s_QVl56yQhwXG73YeV3nxnjuxSSY2/view?usp=sharing" >
         <button  id="skill" className='btn-cv mt-5'>DOWNLOAD CV</button>
         </a>
         <p  data-aos="fade-up"  data-aos-duration="1000" data-aos-once="true" className='m-5 title-name'>Skills</p>
